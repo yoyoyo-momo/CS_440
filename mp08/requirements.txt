@@ -1,2 +1,0 @@
-gradescope-utils
-numpy
